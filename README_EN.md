@@ -59,7 +59,7 @@ With regex enabled and functions activated:
 ---
 
 ## 📦 Version Info
-- 🎯 **Stable**: [Download on GitHub](https://github.com/LimeBlogs/Sudachi-Next/releases/tag/GB1.01)
+- 🎯 **Stable**: [Download on GitHub](https://github.com/LimeBlogs/Sudachi-Next/releases/tag/GB1.02)
 - 🔄 Historical versions and Flash adapters available on GitHub
 
 ---
