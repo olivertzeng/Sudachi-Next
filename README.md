@@ -1,6 +1,6 @@
 # Sudachi Next 
 **质量上乘，内容优秀**  
-[English](https://github.com/LimeBlogs/Sudachi-Next/blob/main/README_EN.md)
+[English](https://github.com/LimeBlogs/Sudachi-Next/blob/main/README_EN.md)<br>[繁体中文](https://github.com/LimeBlogs/Sudachi-Next/blob/main/README_TW.md)
 ## ✨ 特色功能  
 - 🎭 生动角色互动  
 - 🔥 优质文本生成  
