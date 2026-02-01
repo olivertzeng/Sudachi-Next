@@ -68,7 +68,7 @@ jobs:
           # -u: Unify 模式 (你的新需求)
           # -p: 並行模式 (利用優化)
           echo "Running conversion..."
-          /tmp/converter_tools/replace.sh -f -u -p "${FILES_ARRAY[@]}"
+          /tmp/converter_tools/replace.sh -f -u -p -c "${FILES_ARRAY[@]}"
 
           # 4. 檢查是否有實際變更
           if [ -n "$(git diff --name-only)" ]; then
